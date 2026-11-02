@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Bahrain League//Rounds 4-6//EN
+PRODID:-//Bahrain League//Rounds 4-8//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bahrain League - Al Najma
@@ -38,6 +38,28 @@ SUMMARY:⚽ Al-Najma vs A'ali
 LOCATION:Khalifa Sports City Stadium\, Bahrain
 DESCRIPTION:Nasser Bin Hamad Premier League 2026/27 – Round 6\nالنجم
  ة × عالي\nاستاد مدينة خليفة الرياضية
+CATEGORIES:Bahrain League
+END:VEVENT
+BEGIN:VEVENT
+UID:nbh-league-2627-r7-najma@bfa.bh
+DTSTAMP:20261102T000000Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:⚽ Riffa vs Al-Najma
+LOCATION:Khalifa Sports City Stadium\, Bahrain
+DESCRIPTION:Nasser Bin Hamad Premier League 2026/27 – Round 7\nالرفا
+ ع × النجمة\nاستاد مدينة خليفة الرياضية
+CATEGORIES:Bahrain League
+END:VEVENT
+BEGIN:VEVENT
+UID:nbh-league-2627-r8-najma@bfa.bh
+DTSTAMP:20261102T000000Z
+DTSTART:20261129T150000Z
+DTEND:20261129T170000Z
+SUMMARY:⚽ Al-Najma vs Al-Muharraq
+LOCATION:Bahrain National Stadium\, Bahrain
+DESCRIPTION:Nasser Bin Hamad Premier League 2026/27 – Round 8\nالنجم
+ ة × المحرق\nاستاد البحرين الوطني
 CATEGORIES:Bahrain League
 END:VEVENT
 END:VCALENDAR
