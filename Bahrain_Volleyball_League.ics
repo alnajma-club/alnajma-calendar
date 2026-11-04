@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bahrain Volleyball//Isa Bin Rashid League//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bahrain Volleyball - Al Najma
+X-APPLE-CALENDAR-COLOR:#F57C00
+X-WR-TIMEZONE:Asia/Bahrain
+BEGIN:VEVENT
+UID:ibr-volleyball-2627-r1-najma@bva.bh
+DTSTAMP:20261104T000000Z
+DTSTART:20261116T150000Z
+DTEND:20261116T170000Z
+SUMMARY:🏐 Al-Ahli vs Al-Najma
+DESCRIPTION:Isa Bin Rashid Volleyball League 2026/27 – Round 1\nالأه
+ لي × النجمة
+CATEGORIES:Bahrain Volleyball
+END:VEVENT
+BEGIN:VEVENT
+UID:ibr-volleyball-2627-r2-najma@bva.bh
+DTSTAMP:20261104T000000Z
+DTSTART:20261123T150000Z
+DTEND:20261123T170000Z
+SUMMARY:🏐 Bani Jamra vs Al-Najma
+DESCRIPTION:Isa Bin Rashid Volleyball League 2026/27 – Round 2\nبني ج
+ مرة × النجمة
+CATEGORIES:Bahrain Volleyball
+END:VEVENT
+BEGIN:VEVENT
+UID:ibr-volleyball-2627-r3-najma@bva.bh
+DTSTAMP:20261104T000000Z
+DTSTART:20261129T163000Z
+DTEND:20261129T183000Z
+SUMMARY:🏐 Darkulaib vs Al-Najma
+DESCRIPTION:Isa Bin Rashid Volleyball League 2026/27 – Round 3\nدارك
+ ليب × النجمة
+CATEGORIES:Bahrain Volleyball
+END:VEVENT
+BEGIN:VEVENT
+UID:ibr-volleyball-2627-r4-najma@bva.bh
+DTSTAMP:20261104T000000Z
+DTSTART:20261207T150000Z
+DTEND:20261207T170000Z
+SUMMARY:🏐 Al-Muharraq vs Al-Najma
+DESCRIPTION:Isa Bin Rashid Volleyball League 2026/27 – Round 4\nالمح
+ رق × النجمة
+CATEGORIES:Bahrain Volleyball
+END:VEVENT
+BEGIN:VEVENT
+UID:ibr-volleyball-2627-r5-najma@bva.bh
+DTSTAMP:20261104T000000Z
+DTSTART:20261214T163000Z
+DTEND:20261214T183000Z
+SUMMARY:🏐 Al-Tadamun vs Al-Najma
+DESCRIPTION:Isa Bin Rashid Volleyball League 2026/27 – Round 5\nالتض
+ امن × النجمة
+CATEGORIES:Bahrain Volleyball
+END:VEVENT
+BEGIN:VEVENT
+UID:ibr-volleyball-2627-r6-najma@bva.bh
+DTSTAMP:20261104T000000Z
+DTSTART:20261225T163000Z
+DTEND:20261225T183000Z
+SUMMARY:🏐 Al-Nasr vs Al-Najma
+DESCRIPTION:Isa Bin Rashid Volleyball League 2026/27 – Round 6\nالنص
+ ر × النجمة
+CATEGORIES:Bahrain Volleyball
+END:VEVENT
+BEGIN:VEVENT
+UID:ibr-volleyball-2627-r7-najma@bva.bh
+DTSTAMP:20261104T000000Z
+DTSTART:20261229T163000Z
+DTEND:20261229T183000Z
+SUMMARY:🏐 Nabih Saleh vs Al-Najma
+DESCRIPTION:Isa Bin Rashid Volleyball League 2026/27 – Round 7\nالنب
+ يه صالح × النجمة
+CATEGORIES:Bahrain Volleyball
+END:VEVENT
+END:VCALENDAR
